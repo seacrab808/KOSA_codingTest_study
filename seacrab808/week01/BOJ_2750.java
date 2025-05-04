@@ -1,3 +1,5 @@
+// 백준 2750 수 정렬하기1 - 브론즈 2
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
